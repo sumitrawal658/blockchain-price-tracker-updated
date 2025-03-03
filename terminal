@@ -1,0 +1,3 @@
+nest new blockchain-price-tracker
+cd blockchain-price-tracker
+npm install @nestjs/typeorm typeorm pg @nestjs/schedule @nestjs/swagger moralis nodemailer class-validator class-transformer dotenv 
